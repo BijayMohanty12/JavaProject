@@ -1,4 +1,4 @@
-package com.Java.Student_Grade_Calculator;
+package com.Java.Student_Grade_Calculator.Calculator;
 
 import java.util.Scanner;
 
